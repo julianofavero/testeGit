@@ -27,6 +27,7 @@
 + Ismael de Oliveira - Documentação
 + Victória Fortes - Planejamento
 + Gustavo Carvalho - Readme
++ Danilo César - Readme/Analise
 -----------------
 
 > 📄 Licença
