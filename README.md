@@ -28,6 +28,7 @@
 + Victória Fortes - Planejamento
 + Gustavo Carvalho - Readme
 + Danilo César - Readme/Analise
++ Gabriel Sousa - Readme/Analise
 -----------------
 
 > 📄 Licença
